@@ -1,0 +1,20 @@
+class TestData():
+    VALID_FIRSTNAME = 'Anika'
+    VALID_FIRSTNAME_01 = 'Razin'
+    INVALID_FIRSTNAME = '356677'
+    VALID_LASTNAME = 'Tabassum'
+    VALID_LASTNAME_01 = 'Ahmed'
+    INVALID_LASTNAME = 'fghhjjj'
+    VALID_ADDRESS = 'Mohammadpur,Dhaka'
+    INVALID_ADDRESS = 'fghuukm'
+
+    VALID_EMAIL = 'anikasinthy41321@gmail.com'
+    VALID_EMAIL_01 = 'ahmedrazin123@gamil.com'
+    INVALID_EMAIL = '@123445gmail.com'
+    VALID_PHONE = '01762249099'
+    INVALID_PHONE = 'ghjkk'
+    value = "Android"
+    country_name = 'Bangladesh'
+    year = '2000'
+    VALID_PASSWORD = 'anika123'
+    INVALID_PASSWORD = 'ggthhn'
